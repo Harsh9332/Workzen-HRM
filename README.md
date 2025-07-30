@@ -1,22 +1,15 @@
-# Workzen-HRM
+# Workzen-HRM 👥
 
 **Workzen-HRM** is a  web-based Human Resource Management System built with Node.js, Express, and MongoDB. It provides HR automation tools for small to mid-sized organizations—helping you manage attendance, leave, payroll, employee profiles, and project assignments from a unified platform.
 
-## Features
+## 🔧Features
 
 - **Role-Based Access:** Admin, Employee, Project Manager, and Accounts Manager each have tailored dashboards and permissions 
 - **Attendance & Leave Management:** Mark attendance and apply for leave with audit trails and history logs
 - **Payroll Management:** Generate payslips, set bonuses, and automate salary updates
 - **Employee Profiles:** Store educational, work history, and personal details
 
-## Tech Stack
-
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-
-## 🔑 Modules
+## 🧩 Modules
 
 ### 1. Admin
 - Manage employees and applicants
