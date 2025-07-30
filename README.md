@@ -1,27 +1,52 @@
 # Workzen-HRM
 
-**Workzen-HRM** is a Human Resource Management System built using Node.js, Express, and MongoDB. It is designed to manage HR operations like employee management, attendance tracking, leave management, and payroll in a centralized system with role-based access control.
+**Workzen-HRM** is a  web-based Human Resource Management System built with Node.js, Express, and MongoDB. It provides HR automation tools for small to mid-sized organizations—helping you manage attendance, leave, payroll, employee profiles, and project assignments from a unified platform.
 
 ## Features
 
-- Admin, Employee, Project Manager, and Accounts Manager roles
-- Attendance and leave tracking
-- Payroll and salary management
-- Project and employee allocation
-- Employee profile with educational and work history
+- **Role-Based Access:** Admin, Employee, Project Manager, and Accounts Manager each have tailored dashboards and permissions 
+- **Attendance & Leave Management:** Mark attendance and apply for leave with audit trails and history logs
+- **Payroll Management:** Generate payslips, set bonuses, and automate salary updates
+- **Employee Profiles:** Store educational, work history, and personal details
 
 ## Tech Stack
 
+- React.js
 - Node.js
 - Express.js
 - MongoDB
-- EJS (for views)
-- Bootstrap (for UI styling)
 
-## Installation
+## 🔑 Modules
+
+### 1. Admin
+- Manage employees and applicants
+- Approve or reject job applications
+- Handle leave and attendance records
+- Assign roles or departments
+
+### 2. Employee
+- View attendance and salary details
+- Apply for leave
+- Update personal profile
+- Track assigned tasks or projects
+
+### 3. Applicant
+- Register and apply for job openings
+- View application status
+- Upload resumes and track interviews
+
+## ⚙️ Tech Stack
+
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Frontend**: HTML, CSS, JavaScript
+
+## 🚀 Getting Started
+
+### Installation
 
 ```bash
 git clone https://github.com/Harsh9332/Workzen-HRM.git
 cd Workzen-HRM
-npm install
+npm install (Both Fronten and Backend)
 npm start
