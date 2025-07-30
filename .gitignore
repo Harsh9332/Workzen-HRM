@@ -1,0 +1,7 @@
+# Node modules
+BACKEND/node_modules/
+FRONTEND/node_modules/
+
+# package-lock.json files
+BACKEND/package-lock.json
+FRONTEND/package-lock.json
